@@ -1,8 +1,17 @@
 <template>
-<div>
-    <h1>This is NUXT 3</h1>
-    <h2>Let's play</h2>
-    <router />
+    <div>
+<div class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+  <div class="md:flex">
+    <div class="md:flex-shrink-0">
+      <img class="h-48 w-full object-cover md:h-full md:w-48" src="/nuxt.png" alt="Nuxt logo">
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-sm text-green-500 font-semibold">Nuxt 3 beta</div>
+      <a href="#" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">It is time to anounce!!!</a>
+      <p class="mt-2 text-green-900">Finaly Nuxt 3 beta public is alive. </p>
+    </div>
+  </div>
 </div>
-
+    </div>
 </template>
+
