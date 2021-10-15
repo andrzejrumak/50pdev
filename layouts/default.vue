@@ -14,8 +14,8 @@
     >
       <NuxtLink to="/" class="mr-5 hover:text-green-400"> Home</NuxtLink>
       <NuxtLink to="/about" class="mr-5 hover:text-green-400"> About</NuxtLink>
-      <a class="mr-5 hover:text-green-400">Docs</a>
-      <a class="mr-5 hover:text-green-400">Github</a>
+      <a href="https://v3.nuxtjs.org/docs/" class="mr-5 hover:text-green-400">Docs</a>
+      <a href="https://github.com/nuxt/framework" class="mr-5 hover:text-green-400">Github</a>
     </nav>
   </div>
 </header>
