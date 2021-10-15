@@ -8,7 +8,7 @@
     <div class="p-8">
       <div class="uppercase tracking-wide text-sm text-green-500 font-semibold">Nuxt 3 beta</div>
       <a href="#" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">It is time to anounce!!!</a>
-      <p class="mt-2 text-green-900">Finaly Nuxt 3 beta public is alive. Let's check the fture of frontend development.</p>
+      <p class="mt-2 text-green-900">Finaly Nuxt 3 beta public is alive. Let's check the future of frontend development.</p>
     </div>
   </div>
 </div>
